@@ -10,10 +10,10 @@ My nickname is Max, I am Full Stack Developer and IT Professional over 10+ Years
 
  👯 I'm looking for funds to finish my compiler project. Please contact me if you are interested.
 
- ⚡ Fun fact: My life are spend to developing softwares and my programming is here at **GitHub**!
+ ⚡ Fun fact: My life are spend to developing softwares and most of my programs are here at **GitHub**!
   
  📫 Sending Email for cooperation purposes: MaxBaseCode [@] Gmail {.DOT.} com
  
  💬 Ask me about anything related to programming by create a new issue at [this repo](https://github.com/BaseMax/BaseMax/issues/new).
 
-Welcome to my profile, You can follow me if my works are interest.
+**Welcome to my profile, You can follow me if my works are interest.**
