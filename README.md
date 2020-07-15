@@ -8,6 +8,9 @@ My nickname is Max, I am Full Stack Developer and IT Professional over 10+ Years
 
  🔭 I’m currently working at GitHub.
 
-👯 I'm looking for funds to finish my compiler project. Please contact me if you are interested.
+ 👯 I'm looking for funds to finish my compiler project. Please contact me if you are interested.
+
+ 💬 Ask me about anything related to programming by create a new issue at [this repo](https://github.com/BaseMax/BaseMax/issues/new).
+
 
 Welcome to my profile, You can follow me if my works are interest.
