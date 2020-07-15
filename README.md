@@ -10,7 +10,7 @@ My nickname is Max, I am Full Stack Developer and IT Professional over 10+ Years
   
  📫 Sending Email for cooperation purposes: MaxBaseCode [@] Gmail {.DOT.} com
  
- 💬 Ask me about anything related to programming by create a new issue at [this repo](https://github.com/BaseMax/BaseMax/issues/new).
+ 💬 Ask me about anything related to programming by create a new issue at [this repo](https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D).
 
 **Welcome to my profile, You can follow me if my works are interest.**
 
