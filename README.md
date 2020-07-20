@@ -17,6 +17,8 @@ My nickname is Max, I am Full Stack Developer and IT Professional over 10+ Years
 
 **Welcome to my profile, You can follow me if my works are interest.**
 
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=BaseMax&&show_icons=true&theme=tokyonight)
+
 <!--
 You found a secret! BaseMax/BaseMax is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
 
