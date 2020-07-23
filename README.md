@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My nickname is Max, I am Full Stack Developer and IT Professional over 10+ Years. Professional experience in Programming, Open Source, and other Technologies. I started to learn programming in the earlier ages and now I'm a full stack developer who has mastered many programming areas. such as web developing, server-side programming, c , etc.
+My nickname is Max, I am a Full Stack Developer and IT Professional over 10+ Years. Professional experience in Programming, Open Source, and other Technologies. I started to learn programming in the earlier ages and now I'm a full stack developer who has mastered many programming areas. such as web developing, server-side programming, c , etc.
 
-> I looking for friends who have experienced as Front-End Engineer or even UI/UX to work on a great project related to open source community, please email me if you are interested.
+> I am looking for friends who have experienced as Front-End Engineer or even UI/UX to work on a great project related to open source community, please email me if you are interested.
 
  🔭 Anyway I'm currently working at GitHub.
 
