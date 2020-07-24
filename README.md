@@ -4,7 +4,7 @@ My nickname is Max, I am a Full Stack Developer and IT Professional over 10+ Yea
 
 <p align="left"><a href="https://github.com/BaseMax?tab=repositories"><img src="https://camo.githubusercontent.com/af26ad02eaecd4ed6bc549d026874e4c722721ef/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d626173656d6178" alt="Max Base"></a></p>
 
-> I am looking for friends who have experienced as Front-End Engineer or even UI/UX to work on a great project related to open source community, please email me if you are interested.
+> I am looking for friends who have experienced as Front-End Engineer or even UI/UX to work on a great project related to open source community, please email me if you are interested. (An open-source platform with cloud features)
 
  🔭 Anyway I'm currently working at GitHub.
 
