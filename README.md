@@ -2,7 +2,7 @@
 
 My nickname is Max, I am a Full Stack Developer and IT Professional over 10+ Years. Professional experience in Programming, Open Source, and other Technologies. I started to learn programming in the earlier ages and now I'm a full stack developer who has mastered many programming areas. such as web developing, server-side programming, c , etc.
 
-<p align="left"> <a href="https://github.com/BaseMax?tab=repositories"><img src="https://komarev.com/ghpvc/?username=basemax" alt="Max Base"></a> </p>
+<p align="left"> <a href="https://github.com/BaseMax?tab=repositories"><img src="https://camo.githubusercontent.com/af26ad02eaecd4ed6bc549d026874e4c722721ef/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d626173656d6178" alt="Max Base"></a> </p>
 
 > I am looking for friends who have experienced as Front-End Engineer or even UI/UX to work on a great project related to open source community, please email me if you are interested.
 
