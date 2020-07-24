@@ -22,6 +22,8 @@ My nickname is Max, I am a Full Stack Developer and IT Professional over 10+ Yea
 
 If you want to write about me, you can change [this text](https://github.com/BaseMax/BaseMax), this is your chance. I thank you
 
+🤔 Want to have views counter in your profile page? Take [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) for the quick start.
+
 <!--
 You found a secret! BaseMax/BaseMax is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
 
