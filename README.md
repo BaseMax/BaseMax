@@ -6,9 +6,18 @@ My nickname is Max. I'm a full stack developer and IT Professional with over 10 
 
 > I am looking for friends who have experience as front-end engineers or UI/UX to work on a great project related to the open source community. Please email me if you are interested. (An open-source platform with cloud features)
 
+---------
+
+I not hired so I don't have income, But I still help the open source community most of the time.
+If you pay me a monthly donates or even once, I will be happy and I can continue to be stronger. Thanks anyway.
+
+<a target="_blank" href="https://www.paypal.com/donate/?cmd=_donations&business=maxbasecode@gmail.com&currency_code=USD&source=url&item_name=Donate:+Supporting+my+open+source+activities+GitHub.com/basemax&item_number=GitHub,+Inc">
+<img width="185" src="paypal.png"> <img src="donate.gif">
+</a>
+
  🔭 I'm currently working at GitHub.
 
- 👯 I'm looking for funds to finish my compiler project. Please contact me if you are interested.
+ 👯 I'm looking for funds to finish my compiler project. Please contact me if you are interested. **(One Programming Language: Simple, fast, safe, compiled, empowering everyone to build efficient and reliable software)**
 
  ⚡ Fun fact: My life is spent developing software, and most of my programs are here on [**GitHub**](https://github.com/BaseMax?tab=repositories)!
   
@@ -30,12 +39,14 @@ You found a secret! BaseMax/BaseMax is a ✨special ✨ repository that you can 
 New BaseMax/BaseMax is now a special repository: its README.md will appear on your profile! Send feedback. 
 
 **BaseMax/basemax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ...J
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
