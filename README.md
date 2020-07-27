@@ -4,7 +4,7 @@ My nickname is Max. I'm a full stack developer and IT Professional with over 10 
 
 <p align="left"><a href="https://github.com/BaseMax?tab=repositories"><img src="https://camo.githubusercontent.com/af26ad02eaecd4ed6bc549d026874e4c722721ef/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d626173656d6178" alt="Max Base"></a></p>
 
-> I am looking for friends who have experience as front-end engineers or UI/UX to work on a great project related to the open source community. Please email me if you are interested. (An open-source platform with cloud features)
+> I am looking for friends who have experience as front-end engineers or UI/UX to work on a great project related to the open source community. Please email me if you are interested. An open-source platform with cloud features: Mix git + repository + hosting (github.com and heroku.com, ...)
 
 ---------
 
@@ -15,7 +15,7 @@ If you pay me a monthly donates or even once, I will be happy and I can continue
 <img width="185" src="https://raw.githubusercontent.com/BaseMax/BaseMax/master/paypal.png"> <img src="https://raw.githubusercontent.com/BaseMax/BaseMax/master/donate.gif">
 </a>
 
- 🔭 I'm currently working at GitHub.
+🔭 I'm currently working at GitHub.
 
  👯 I'm looking for funds to finish my compiler project. Please contact me if you are interested. **(One Programming Language: Simple, fast, safe, compiled, empowering everyone to build efficient and reliable software)**
 
@@ -30,8 +30,6 @@ If you pay me a monthly donates or even once, I will be happy and I can continue
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=BaseMax&&show_icons=true&theme=tokyonight)](https://maxbase.org)
 
 If you want to write about me, you can change [this text](https://github.com/BaseMax/BaseMax), this is your chance. I thank you.
-
-🤔 Want to have views counter in your profile page? Take [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) for the quick start.
 
 <!--
 You found a secret! BaseMax/BaseMax is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
