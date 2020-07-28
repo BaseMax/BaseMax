@@ -8,7 +8,7 @@ My nickname is Max. I'm a full stack developer and IT Professional with over 10 
 
 ---------
 
-I not hired so I don't have income, But I still help the open source community most of the time.
+I am not hired so I don't have income, But I still help the open source community most of the time.
 If you pay me a monthly donates or even once, I will be happy and I can continue to be stronger. Thanks anyway.
 
 <a target="_blank" href="https://www.paypal.com/donate/?cmd=_donations&business=maxbasecode@gmail.com&currency_code=USD&source=url&item_name=Donate:+Supporting+my+open+source+activities+GitHub.com/basemax&item_number=GitHub,+Inc">
