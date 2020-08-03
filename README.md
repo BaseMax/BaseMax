@@ -27,7 +27,7 @@ If you pay me a monthly donates or even once, I will be happy and I can continue
 
 **Welcome to my profile! You can follow me if my works are of interest.**
 
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=BaseMax&&show_icons=true&theme=tokyonight)](https://maxbase.org)
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=BaseMax&show_icons=true&theme=tokyonight&count_private=true)](https://maxbase.org)
 
 If you want to write about me, you can change [this text](https://github.com/BaseMax/BaseMax), this is your chance. I thank you.
 
