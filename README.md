@@ -8,7 +8,7 @@ My nickname is Max. I'm a full stack developer and IT Professional with over 10 
 
 > I am looking for friends who have experience and want to work on a great project related to the open-source community. Please email me if you are interested:
 
-- Front-end engineers or UI/UX: An open-source platform with cloud features: Mix git + repository + hosting (github.com and heroku.com, ...)
+- Front-end engineers or UI/UX Designer: An open-source platform with cloud features: Mix git + repository + hosting (github.com and heroku.com, ...)
 - Qt Qml Software Developer: New generation of GitHub Desktop: Cross-platform,  good performance and more features (desktop.github.com)
 
 ---------
