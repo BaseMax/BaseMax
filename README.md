@@ -20,7 +20,7 @@ My nickname is Max. I'm a full stack developer and IT Professional with over 10 
 
  ⚡ Fun fact: My life is spent developing software, and most of my programs are here on [**GitHub**](https://github.com/BaseMax?tab=repositories)!
  
- 💬 Ask for anything related to me or programming by creating a new issue in [this repo](https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D).
+ 💬 **AMA**/Ask me anything: Ask for anything related to me or programming by creating a new issue in [this repo](https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D).
 
 **Welcome to my profile! You can follow me if my works are of interest.**
 
