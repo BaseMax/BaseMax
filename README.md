@@ -8,6 +8,7 @@ My nickname is Max. I'm a full stack developer and IT Professional with over 10 
 
 - Qt Qml Software Developer: New generation of GitHub Desktop: Cross-platform,  good performance and more features (desktop.github.com)
 - Front-end engineers or UI/UX Designer: An open-source platform with cloud features: Mix git + repository + hosting (github.com and heroku.com, ...)
+- If you are a proponent of software freedom and you are interested in Linux, You can help in developing a new Linux distribution [DonyaOS](http://github.com/DonyaOS) (busybox, bash script, linux from scratch)
 
 ---------
 
@@ -19,7 +20,7 @@ My nickname is Max. I'm a full stack developer and IT Professional with over 10 
   
  📫 Sending Email for cooperation purposes: MaxBaseCode [@] Gmail {.DOT.} com
  
- 💬 Ask me about anything related to programming by creating a new issue at [this repo](https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D).
+ 💬 Ask for anything related to me or programming by creating a new issue in [this repo](https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D).
 
 **Welcome to my profile! You can follow me if my works are of interest.**
 
