@@ -24,7 +24,7 @@ My nickname is Max. I'm a full stack developer and IT Professional with over 10 
 
 **Welcome to my profile! You can follow me if my works are of interest.**
 
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=BaseMax&show_icons=true&include_all_commits=true&count_private=true)](https://maxbase.org)
+[![GitHub Status](https://camo.githubusercontent.com/e059f22c0c3079319deff99c40753647d0979f76/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d426173654d61782673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565)](https://maxbase.org)
 
 If you want to write about me, you can change [this text](https://github.com/BaseMax/BaseMax), this is your chance. I thank you.
 
