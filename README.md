@@ -2,6 +2,8 @@
 
 My nickname is Max. I'm a full stack developer and IT Professional with over 10 years of experience. I have professional experience with Python, PHP, JavaScript, C++, C, QML, and many more. I have mastered many areas of programming, such as web development and server-side programming.
 
+### You can nominate me at https://stars.github.com/ as a **GitHub Star**.
+
 #### Opportunity to work with me
 
 > I am looking for friends who have experience and want to work on a great project related to the open-source community. Please email me if you are interested:
