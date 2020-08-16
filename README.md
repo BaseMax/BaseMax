@@ -9,7 +9,7 @@ My nickname is Max. I'm a full stack developer and IT Professional with over 10 
 > I am looking for friends who have experience and want to work on a great project related to the open-source community. Please email me if you are interested:
 
 - Qt Qml Software Developer: New generation of GitHub Desktop: Cross-platform,  good performance and more features (desktop.github.com)
-- Front-end engineers or UI/UX Designer: An open-source platform with cloud features: Mix git + repository + hosting (github.com and heroku.com, ...)
+- Front-end engineers or UI/UX Designer: An open-source platform with cloud features: Mix git + repository + hosting (github.com, cloudflare.com, and heroku.com)
 - If you are a proponent of software freedom and you are interested in Linux, You can help in developing a new Linux distribution [DonyaOS](https://github.com/DonyaOS/Donya) (busybox, bash script, linux from scratch)
 
 ---------
