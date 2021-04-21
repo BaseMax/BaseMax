@@ -1,6 +1,6 @@
 ### Hi there 👋 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://camo.githubusercontent.com/af26ad02eaecd4ed6bc549d026874e4c722721ef/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d626173656d6178" alt="Max Base"></a>
 
-My nickname is Max. I'm a full stack developer and IT Professional with over 10 years of experience. I have professional experience with Python, PHP, JavaScript, C++, C, QML, and many more. I have mastered many areas of programming, such as web development and server-side programming.
+My nickname is Max. I'm a full stack developer and IT Professional with over 10 years of experience. I have professional experience with Python, PHP, JavaScript,  C, and many more. I have mastered many areas of programming, such as web development and server-side programming.
 
 ### You can nominate me at https://stars.github.com/ as a **GitHub Star**.
 
