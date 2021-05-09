@@ -4,14 +4,6 @@ My nickname is Max. I'm a full stack developer and IT Professional with over 10 
 
 ### You can nominate me at https://stars.github.com/ as a **GitHub Star**.
 
-#### Opportunity to work with me
-
-> I am looking for friends who have experience and want to work on a great project related to the open-source community. Please email me if you are interested:
-
-- Qt Qml Software Developer: New generation of GitHub Desktop: Cross-platform,  good performance and more features (desktop.github.com)
-- Front-end engineers or UI/UX Designer: An open-source platform with cloud features: Mix git + repository + hosting (github.com, cloudflare.com, and heroku.com)
-- If you are a proponent of software freedom and you are interested in Linux, You can help in developing a new Linux distribution [DonyaOS](https://github.com/DonyaOS/Donya) (busybox, bash script, linux from scratch)
-
 ---------
 
  🔭 I'm currently working at GitHub.
@@ -32,9 +24,10 @@ My nickname is Max. I'm a full stack developer and IT Professional with over 10 
 
 If you want to write about me, you can change [this text](https://github.com/BaseMax/BaseMax), this is your chance. I thank you.
 
-
 I am not hired so I don't have income, But I still help the open source community most of the time.
+<!--
 If you pay me a monthly donates or even once, I will be happy and I can continue to be stronger. Thanks anyway.
+-->
 
 <!--
 You found a secret! BaseMax/BaseMax is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
