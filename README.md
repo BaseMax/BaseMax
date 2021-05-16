@@ -8,7 +8,9 @@ My nickname is Max. I'm a full stack developer and IT Professional with over 10 
 
  🔭 I'm currently working at GitHub.
 
-[![Max Base trophy](https://github-profile-trophy.vercel.app/?username=basemax&column=7&margin-w=15&margin-h=15)](https://github.com/BaseMax?tab=repositories)
+<a href="https://github.com/BaseMax?tab=repositories">
+ <img src="https://github-profile-trophy.vercel.app/?username=basemax&column=7&margin-w=15&margin-h=15" with="100%" alt="Max Base trophy">
+</a>
 
 👯 I'm looking for funds to finish my compiler project. Please contact me if you are interested. **(One Programming Language: Simple, fast, safe, compiled, empowering everyone to build efficient and reliable software)**
 
