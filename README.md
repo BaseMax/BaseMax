@@ -1,52 +1,27 @@
-### Hi there 👋 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://camo.githubusercontent.com/af26ad02eaecd4ed6bc549d026874e4c722721ef/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d626173656d6178" alt="Max Base"></a>
+<img align ="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="basemax" />
+<h1 align="center">Hi 👋, I'm Max</h1>
 
-My nickname is Max. I'm a full stack developer and IT Professional with over 10 years of experience. I have professional experience with PHP, JavaScript, CSS, C, Python. I have mastered many areas of programming, such as web development and server-side programming.
-
-### You can nominate me at https://stars.github.com/ as a **GitHub Star**.
-
----------
-
- 🔭 I'm currently working at GitHub.
-
-<a href="https://github.com/BaseMax?tab=repositories">
- <!-- <img src="https://github-profile-trophy.vercel.app/?username=basemax&column=7&margin-w=15&margin-h=15" with="100%" alt="Max Base trophy"> -->
- <img src="https://github-profile-trophy.vercel.app/?username=basemax&column=8" with="100%" alt="Max Base trophy">
-</a>
-
-👯 I'm looking for funds to finish my compiler project. Please contact me if you are interested. **(One Programming Language: Simple, fast, safe, compiled, empowering everyone to build efficient and reliable software)**
-
- 📫 Sending Email for cooperation purposes: MaxBaseCode [@] Gmail {.DOT.} com
-
- ⚡ Fun fact: My life is spent developing software, and most of my programs are here on [**GitHub**](https://github.com/BaseMax?tab=repositories)!
- 
- 💬 **AMA**/Ask me anything: Ask for anything related to me or programming by creating a new issue in [this repo](https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D).
-
-**Welcome to my profile! You can follow me if my works are of interest.**
-
-[![GitHub Status](https://camo.githubusercontent.com/e059f22c0c3079319deff99c40753647d0979f76/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d426173654d61782673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565)](https://maxbase.org)
-
-If you want to write about me, you can change [this text](https://github.com/BaseMax/BaseMax), this is your chance. I thank you.
-
-I am not hired so I don't have income, But I still help the open source community most of the time.
-<!--
-If you pay me a monthly donates or even once, I will be happy and I can continue to be stronger. Thanks anyway.
--->
-
-<!--
-You found a secret! BaseMax/BaseMax is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
-
-New BaseMax/BaseMax is now a special repository: its README.md will appear on your profile! Send feedback. 
-
-**BaseMax/basemax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...J
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Wanna nominate me as a <a href="https://stars.github.com/">Github Star</a> ? <a href="https://stars.github.com/nominate/">Here, you go !!</a>
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)<br/>
+<b>Welcome !! </b><br/>
+Some things about me :<br/>
+:one: Programming language developer<br/>
+:two: Full stack developer and IT professional with over 10 years of experience.<br/>
+:three: Proficient with PHP, JavaScript, CSS, C and Python.<br/> 
+:four: Have mastered many areas of programming like Web Development and server-side programming.<br/>
+:five: I’m currently working on my project - <a href="https://github.com/One-Language">One</a><br/> 
+:six: Looking for funds to complete my Compiler Project - <a href="https://github.com/One-Language/">One</a>. Support us at <a href="https://www.patreon.com/onelanguage">Patreon</a>.<br/>
+:seven: How to reach me : Mail me at ![](https://chxo.com/labelgen/labelgen.php?textval=+maxbasecode%40gmail.com&font=ARIAL.TTF&size=12&bgcolor=%23ffffff&textcolor=%23000000&submit=create+image)<br/>
+:eight: Ask me anything related to programming : <a href="https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
+:nine: Fun fact : Have been developing softwares for most part of my life
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basemax&column=8&margin-w=15&margin-h=15" alt="basemax" /></a> 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)<br/>
+<b>Languages and Tools:</b><br/>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=basemax&show_icons=true&locale=en" alt="basemax" />
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
