@@ -11,7 +11,7 @@ Some things about me :<br/>
 :three: Proficient with PHP, JavaScript, CSS, C and Python.<br/> 
 :four: Have mastered many areas of programming like Web Development and server-side programming.<br/>
 :five: I’m currently working on my project - <a href="https://github.com/One-Language">One</a><br/> 
-:six: Looking for funds to complete my Compiler Project - <a href="https://github.com/One-Language/">One</a>. Support us at <a href="https://www.patreon.com/onelanguage">Patreon</a>.<br/>
+:six: Looking for funds to complete my Compiler Project - <a href="https://github.com/One-Language/">One</a>. Support us at <a href="https://github.com/sponsors/One-Language">GitHub Sponsors</a> or <a href="https://www.patreon.com/onelanguage">Patreon</a>.<br/>
 :seven: How to reach me : Mail me at ![](https://chxo.com/labelgen/labelgen.php?textval=+maxbasecode%40gmail.com&font=ARIAL.TTF&size=12&bgcolor=%23ffffff&textcolor=%23000000&submit=create+image)<br/>
 :eight: Ask me anything related to programming : <a href="https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
 :nine: Fun fact : Have been developing softwares for most part of my life
