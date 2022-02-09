@@ -9,17 +9,17 @@ body:
       value: |
         Thanks for taking the time to fill out this bug report!
 
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
-        - Other
+#   - type: dropdown
+#     id: browsers
+#     attributes:
+#       label: What browsers are you seeing the problem on?
+#       multiple: true
+#       options:
+#         - Firefox
+#         - Chrome
+#         - Safari
+#         - Microsoft Edge
+#         - Other
   
   - type: textarea
     id: ping-github
