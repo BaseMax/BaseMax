@@ -8,33 +8,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
-    validations:
-      required: true
-  - type: dropdown
-    id: version
-    attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
-    validations:
-      required: true
+
   - type: dropdown
     id: browsers
     attributes:
@@ -45,17 +19,87 @@ body:
         - Chrome
         - Safari
         - Microsoft Edge
+        - Other
+  
   - type: textarea
     id: logs
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
-  - type: checkboxes
-    id: terms
+      label: Ping github.com
+      description: Please run `ping -c 10 github.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: logs
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+      label: Ping avatars.githubusercontent.com
+      description: Please run `ping -c 10 avatars.githubusercontent.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Ping raw.githubusercontent.com
+      description: Please run `ping -c 10 raw.githubusercontent.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: markdown
+    validations:
+      required: true
+
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Traceroute github.com
+      description: Please run `traceroute github.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Traceroute avatars.githubusercontent.com
+      description: Please run `traceroute avatars.githubusercontent.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Traceroute raw.githubusercontent.com
+      description: Please run `traceroute raw.githubusercontent.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: markdown
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Ping google.com
+      description: Please run `ping -c 10 google.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: markdown
+  - type: textarea
+    id: logs
+    attributes:
+      label: Ping bing.com
+      description: Please run `ping -c 10 bing.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: markdown
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Connection data
+      description: Please also click on the Test your connection (may take several seconds) button and include those results: https://github-debug.com/
+      render: markdown
+    validations:
+      required: false
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Description, What happened?
+      description: Also tell us, what did you experience?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: false
