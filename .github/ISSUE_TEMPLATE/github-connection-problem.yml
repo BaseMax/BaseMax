@@ -89,7 +89,7 @@ body:
     id: logs
     attributes:
       label: Connection data
-      description: Please also click on the Test your connection (may take several seconds) button and include those results: https://github-debug.com/
+      description: "Please also click on the `Test your connection (may take several seconds)` button and include those results: https://github-debug.com/"
       render: markdown
     validations:
       required: false
