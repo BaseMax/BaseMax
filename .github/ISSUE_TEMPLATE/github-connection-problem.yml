@@ -107,7 +107,7 @@ body:
     id: description
     attributes:
       label: Description, What happened?
-      description: Also tell us, what did you experience?
+      description: Also tell us, what did you experience? (In english)
       placeholder: Tell us more about your experience and what you see!
     validations:
       required: false
