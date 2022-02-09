@@ -61,10 +61,4 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
-
 ---
-
-<!--
-Explain your question and what exactly are you looking for?
-And how might my answer help you?
--->
