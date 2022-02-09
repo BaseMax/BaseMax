@@ -2,8 +2,9 @@
 name: Question Template
 about: A template for asking personal questions in my personal repository.
 title: 'Question: [Your-Title]'
-labels: 'question'
+labels: question
 assignees: ''
+
 ---
 
 <!--
