@@ -1,4 +1,3 @@
----
 name: GitHub Connection problem
 about: Connection problem to GitHub servers in Iran
 description: File a connection report
@@ -61,4 +60,3 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
----
