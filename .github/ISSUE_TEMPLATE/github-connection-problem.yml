@@ -50,24 +50,24 @@ body:
   - type: textarea
     id: traceroute-github
     attributes:
-      label: Traceroute github.com
-      description: Please run `traceroute github.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      label: Traceroute/Tracert github.com
+      description: Please run `traceroute github.com` if you are Linux/Unix and `tracert github.com` if you are window. And copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: markdown
     validations:
       required: true
   - type: textarea
     id: traceroute-avatars
     attributes:
-      label: Traceroute avatars.githubusercontent.com
-      description: Please run `traceroute avatars.githubusercontent.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      label: Traceroute/Tracert avatars.githubusercontent.com
+      description: Please run `traceroute avatars.githubusercontent.com` if you are Linux/Unix and `tracert avatars.githubusercontent.com` if you are window. And copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: markdown
     validations:
       required: true
   - type: textarea
     id: traceroute-raw
     attributes:
-      label: Traceroute raw.githubusercontent.com
-      description: Please run `traceroute raw.githubusercontent.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      label: Traceroute/Tracert raw.githubusercontent.com
+      description: Please run `traceroute raw.githubusercontent.com` if you are Linux/Unix and `tracert raw.githubusercontent.com` if you are window. And copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: markdown
     validations:
       required: true
@@ -78,12 +78,16 @@ body:
       label: Ping google.com
       description: Please run `ping -c 10 google.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: markdown
+    validations:
+      required: false
   - type: textarea
     id: ping-bing
     attributes:
       label: Ping bing.com
       description: Please run `ping -c 10 bing.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: markdown
+    validations:
+      required: false
 
   - type: textarea
     id: connection-data
@@ -92,7 +96,7 @@ body:
       description: "Please also click on the `Test your connection (may take several seconds)` button and include those results: https://github-debug.com/"
       render: markdown
     validations:
-      required: false
+      required: true
 
   - type: textarea
     id: description
