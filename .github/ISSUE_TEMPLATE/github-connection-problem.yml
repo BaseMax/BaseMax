@@ -1,6 +1,6 @@
-name: GitHub Connection problem
+name: GitHub connection problem
 description: File a connection report
-title: Connection problem to GitHub servers in Iran
+title: Problem connecting to GitHub servers in Iran
 labels: ["github", "iran"]
 assignees: ["basemax"]
 body:
