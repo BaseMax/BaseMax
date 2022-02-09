@@ -22,7 +22,7 @@ body:
         - Other
   
   - type: textarea
-    id: logs
+    id: ping-github
     attributes:
       label: Ping github.com
       description: Please run `ping -c 10 github.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
@@ -30,7 +30,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: logs
+    id: ping-avatars
     attributes:
       label: Ping avatars.githubusercontent.com
       description: Please run `ping -c 10 avatars.githubusercontent.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
@@ -38,7 +38,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: logs
+    id: ping-raw
     attributes:
       label: Ping raw.githubusercontent.com
       description: Please run `ping -c 10 raw.githubusercontent.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
@@ -48,7 +48,7 @@ body:
 
 
   - type: textarea
-    id: logs
+    id: traceroute-github
     attributes:
       label: Traceroute github.com
       description: Please run `traceroute github.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
@@ -56,7 +56,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: logs
+    id: traceroute-avatars
     attributes:
       label: Traceroute avatars.githubusercontent.com
       description: Please run `traceroute avatars.githubusercontent.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
@@ -64,7 +64,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: logs
+    id: traceroute-raw
     attributes:
       label: Traceroute raw.githubusercontent.com
       description: Please run `traceroute raw.githubusercontent.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
@@ -73,20 +73,20 @@ body:
       required: true
 
   - type: textarea
-    id: logs
+    id: ping-google
     attributes:
       label: Ping google.com
       description: Please run `ping -c 10 google.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: markdown
   - type: textarea
-    id: logs
+    id: ping-bing
     attributes:
       label: Ping bing.com
       description: Please run `ping -c 10 bing.com` and copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: markdown
 
   - type: textarea
-    id: logs
+    id: connection-data
     attributes:
       label: Connection data
       description: "Please also click on the `Test your connection (may take several seconds)` button and include those results: https://github-debug.com/"
@@ -95,7 +95,7 @@ body:
       required: false
 
   - type: textarea
-    id: what-happened
+    id: description
     attributes:
       label: Description, What happened?
       description: Also tell us, what did you experience?
