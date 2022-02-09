@@ -103,7 +103,6 @@ body:
     attributes:
       label: Description, What happened?
       description: Also tell us, what did you experience?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      placeholder: Tell us more about your experience and what you see!
     validations:
       required: false
