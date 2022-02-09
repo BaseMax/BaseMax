@@ -2,8 +2,8 @@ name: GitHub Connection problem
 about: Connection problem to GitHub servers in Iran
 description: File a connection report
 title: Connection problem to GitHub servers in Iran
-labels: ["github"]
-assignees: ''
+labels: "github"
+assignees: ""
 body:
   - type: markdown
     attributes:
