@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 Some things about me :<br/>
 :one: Programming language developer<br/>
 :two: Full stack developer and IT professional with over 10 years of experience.<br/>
-:three: Proficient with PHP, JavaScript, CSS, C and Python.<br/> 
+:three: Proficient with C, PHP, TypeScript, JavaScript, GO, CSS, and Python.<br/> 
 :four: Have mastered many areas of programming like Web Development and server-side programming.<br/>
 :five: I’m currently working on the <a href="https://github.com/One-Language">ONE Programming Language</a><br/> 
 :six: Looking for funds to complete my Compiler Project - <a href="https://github.com/One-Language/">One</a>. Support us at <a href="https://github.com/sponsors/One-Language">GitHub Sponsors</a> or <a href="https://www.patreon.com/onelanguage">Patreon</a>.<br/>
