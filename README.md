@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  aka <b>Max Base</b>
+  Software Engineer • Creator of Salam Programming Language • Open Source Maintainer
 </p>
 
 <p align="center">
-  Software Engineer • Creator of Salam Programming Language • Open Source Maintainer
+  aka <b>Max Base</b>
 </p>
 
 ---
