@@ -1,9 +1,9 @@
 <h1 align="center">
-Hi, I'm Seyyed Ali Mohammadiyeh👋
+  Hi, I'm Seyyed Ali Mohammadiyeh 👋
 </h1>
 
 <p align="center">
-Software Engineer • Creator of Salam Programming Language • Open Source Maintainer
+  Software Engineer • Creator of Salam Programming Language • Open Source Maintainer
 </p>
 
 ---
