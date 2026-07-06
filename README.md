@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Seyyed Ali Mohammadiyeh (MAX)</h1>
+<h1 align="center">
+Hi 👋, I'm Seyyed Ali Mohammadiyeh<br/>(MAX)
+</h1>
 
 <p align="center">
 Software Engineer • Creator of Salam Programming Language • Open Source Maintainer
