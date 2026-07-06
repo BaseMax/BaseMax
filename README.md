@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  aka <b>Max Base</b>
+</p>
+
+<p align="center">
   Software Engineer • Creator of Salam Programming Language • Open Source Maintainer
 </p>
 
@@ -13,12 +17,12 @@
 * 10+ years in systems, web, and compiler engineering
 * Building languages, tools, and scalable software
 
-🌍 **Focus**
+🌍 **Focus**  
 Programming languages • Compilers • Backend systems • Open source
 
 💡 **Contact**
 
-* 🌐 https://www.mohammadiyeh.com
-* 📧 <a href="https://www.mohammadiyeh.com/">[maxbasecode@gmail.com](mailto:maxbasecode@gmail.com)</a>
+* 🌐 https://www.mohammadiyeh.com  
+* 📧 <a href="mailto:maxbasecode@gmail.com">maxbasecode@gmail.com</a>
 
 ⭐ Nominate me: https://stars.github.com/nominate/
